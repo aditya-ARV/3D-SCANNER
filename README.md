@@ -15,7 +15,7 @@ Images are provided for reference
 Software GUI
 
 Python simple GUI based design.
-Need to be update folder(default to my machine) for saving scanned data
+Need to update scan folder in main processing function under "START and PLOT" event if conditions (default to my machine) for saving scanned data
 
 
 
