@@ -7,4 +7,15 @@ The project comprises of two component
 
 The interface between GUI and hardware is over USB_TTL port
 
+Hardware Unit 
+
+It need to be built using stepper motor, IR distance sensor, DC linear actuator(custom built), arduino UNO board and mechanix tool set.
+Images are provided for reference
+
+Software GUI
+
+Python simple GUI based design.
+Need to be update folder(default to my machine) for saving scanned data
+
+
 
